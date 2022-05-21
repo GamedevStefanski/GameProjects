@@ -1,0 +1,7 @@
+WSAD - Move
+LMB - Shoot
+R - Reload
+B - Open Shop
+
+Currently the main menu and pausing the game isn't finished 
+so to leave the game you'll have to press alt + f4.
