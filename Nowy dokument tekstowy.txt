@@ -1,0 +1,11 @@
+		AMW Project
+
+⦁ Projekt tworzony w ramach zaliczenia praktyk w AMW. 
+⦁ Top - down shooter o tematyce zombie. 
+⦁ Projekt stworzony został w miesiąc.
+
+		Frog Game
+
+⦁ Prywatny projekt tworzony z pasji do gier.
+⦁ Platformowy  shooter 2D nastawiony na walki z bossami.
+⦁ Każdy asset został przeze mnie utworzony osobiście.
