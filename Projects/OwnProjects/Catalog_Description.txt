@@ -1,0 +1,4 @@
+Here you can find projects, which I've created by myself.
+Every asset in here is made by me, including sound effects, sprites and scripts.
+Each project's folder will include a showcase video and a text file describing the details.
+

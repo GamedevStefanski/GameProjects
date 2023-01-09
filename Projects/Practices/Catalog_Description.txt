@@ -1,0 +1,2 @@
+Here you can find projects, which I've created using tutorials and courses.
+Each of the projects will include a text file describing what was the purpose of creating such project.

@@ -1,0 +1,5 @@
+Frog Game is my most recent project. 
+I've been heavily inspired by a game called "Cuphead" - a title heavily depending on fighting different bosses.
+
+The game contains 4 levels: a tutorial map, Frog's hideout and 2 boss arenas.
+There's still much work to do before the game is polished, but there's enough of gameplay to showcase it.

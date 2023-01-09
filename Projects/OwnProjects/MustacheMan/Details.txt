@@ -1,0 +1,6 @@
+The Mustache Man project is one of my strangest creations. While working on it I was heavily inspired by "Reventure".
+It's a platformer heavily based on solving puzzles and a lot of humour directed to the player via messages left on the map.
+
+It may not be the prettiest or the best game I've made, but it's the closest one to have its release.
+The player's task is to find a golden log for his fireplace and this task requires a lot of running and looking for useful items.
+

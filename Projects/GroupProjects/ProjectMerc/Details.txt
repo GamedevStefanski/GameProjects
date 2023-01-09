@@ -1,0 +1,6 @@
+Project Merc is a group project that I'm working on with 3 other developers.
+It's a cooperative dungeon-based fantasy RPG.
+
+To coordinate our work we're using Plastic SCM and Jira. To create the online functionalites we decided to use Photon Engine.
+Everybody in the team has a different role. For now mine was to take care of the UI and online features.
+Unfortunately, the game is not ready to showcase the gameplay yet, so I've only included some screenshots of the things we managed to achieve.

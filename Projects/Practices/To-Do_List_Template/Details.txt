@@ -1,0 +1,5 @@
+"To do list" application was a part of a tutorial.
+The idea of it's job is similiar to Jira or Trello, but for a single user only and a very simple layout without many functionalites.
+
+It helped me to understand the basics of using the JSON files, therefore saving the data of the app even after closing it.
+It's also ready to port it to mobiles.

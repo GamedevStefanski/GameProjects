@@ -1,0 +1,5 @@
+As the creative name points out the Top Down FPS is a simple zombie shooter.
+It was one the first projects I've made by myself.
+
+Player's task is to survive endless waves of 3 different types of zombies. 
+There are 4 different weapons and a first-aid kit available in the shop.
