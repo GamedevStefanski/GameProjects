@@ -1,4 +1,4 @@
-Here you can find projects, which I've created by myself.
-Every asset in here is made by me, including sound effects, sprites and scripts.
+Here you can find some projects, which I've created by myself.
+Each one of the assets in the games are done by me, including sound effects, sprites and scripts.
 Each project's folder will include a showcase video and a text file describing the details.
 
